@@ -16,4 +16,4 @@ This is a simple personal resume website created using pure HTML.
 This project was built to practice HTML fundamentals and semantic tags.
 
 ## Author
-Nidhisha Kosta
+Nidhi Kosta
